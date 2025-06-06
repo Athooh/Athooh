@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://oathooh.vercel.app/](http://oathooh.vercel.app/)
 
-- 📝 I regularly write articles on [https://dev.to/seth_athooh_85836d9884b79](https://dev.to/seth_athooh_85836d9884b79)
+- 📝 I regularly write articles on [https://dev.to/seth_athooh_85836d9884b79](https://dev.to/oathooh)
 
 - 💬 Ask me about **React, NiceGui, GO**
 
